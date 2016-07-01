@@ -20,9 +20,15 @@
     [super viewDidLoad];
 
 
-    NSLog(@"=====");
+     NSLog(@"=====");
     
-    
+     NSLog(@"=====");
+     NSLog(@"=====");
+     NSLog(@"=====");
+     NSLog(@"=====");
+     NSLog(@"=====");
+     NSLog(@"=====");
+     NSLog(@"=====");
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
