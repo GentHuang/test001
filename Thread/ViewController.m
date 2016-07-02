@@ -32,11 +32,7 @@
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    
 
-    
-    
-    
     pthread_t thread;
     
     //创建一个线程
