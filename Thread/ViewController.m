@@ -29,6 +29,11 @@
      NSLog(@"=====");
      NSLog(@"=====");
      NSLog(@"=====");
+    
+    NSLog(@"===eee==");
+    NSLog(@"===www=");
+    NSLog(@"==wwww===");
+    NSLog(@"==aaaa===");
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
