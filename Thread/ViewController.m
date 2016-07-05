@@ -37,10 +37,6 @@
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    
-    NSLog(@"++++++");
-    NSLog(@"=====");
-    NSLog(@"=====");
 
     pthread_t thread;
     
